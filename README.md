@@ -1,8 +1,6 @@
 # Hi 👋, I'm Zhou-Shilin (BaimoQilin)
 ### A student, software developer, minecrafter from China
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zhou-shilin&show_icons=true&locale=en&include_all_commits=true" alt="zhou-shilin" /></p>
-
 - 🌱 I’m currently learning **Python, Java and C++**
 
 - 👯 I’m looking to collaborate with someone on [CubeGPT Team](https://github.com/CubeGPT)
