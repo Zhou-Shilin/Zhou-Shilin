@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I don't know what should I write here.**
 
 ### Projects
-[![BukkitGPT](https://github-readme-stats.vercel.app/api/pin/?username=CubeGPT&repo=BukkitGPT)](https://github.com/CubeGPT/BukkitGPT)
+[![BukkitGPT](https://github-readme-stats.vercel.app/api/pin/?username=CubeGPT&repo=BukkitGPT-v3)](https://github.com/CubeGPT/BukkitGPT-v3)
 [![BuilderGPT](https://github-readme-stats.vercel.app/api/pin/?username=CubeGPT&repo=BuilderGPT)](https://github.com/CubeGPT/BuilderGPT)
 
 <h3 align="left">Connect with me:</h3>
