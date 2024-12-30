@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate with someone on [CubeGPT Team](https://github.com/CubeGPT)
 
-- 📝 Here's my website for further information:[me.baimoqilin.com](https://me.baimoqilin.com)
+- 📝 Here's my website for further information: [https://me.baimoqilin.com](https://me.baimoqilin.com)
 
 - 📫 How to reach me **baimoqilin@gmail.com**
 
