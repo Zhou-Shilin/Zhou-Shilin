@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Java and C++**
 
-- 👯 I’m looking to collaborate with someone on [CubeGPT Team](https://github.com/CubeGPT)
+- 👯 I’m looking to collaborate with someone on [CyniaAI Team](Https://github.com/CyniaAI)
 
 - 📝 Here's my website for further information: [https://me.baimoqilin.com](https://me.baimoqilin.com)
 
@@ -12,8 +12,11 @@
 - ⚡ Fun fact **I don't know what should I write here.**
 
 ### Projects
-[![BukkitGPT](https://github-readme-stats.vercel.app/api/pin/?username=CubeGPT&repo=BukkitGPT-v3)](https://github.com/CubeGPT/BukkitGPT-v3)
-[![BuilderGPT](https://github-readme-stats.vercel.app/api/pin/?username=CubeGPT&repo=BuilderGPT)](https://github.com/CubeGPT/BuilderGPT)
+[![BuilderGPT](https://github-readme-stats.vercel.app/api/pin/?username=CyniaAI&repo=BuilderGPT)](https://github.com/CyniaAI/BuilderGPT)
+
+[![BukkitGPT](https://github-readme-stats.vercel.app/api/pin/?username=CyniaAI&repo=BukkitGPT-v3)](https://github.com/CyniaAI/BukkitGPT-v3)
+
+[![CyniaAgents](https://github-readme-stats.vercel.app/api/pin/?username=CyniaAI&repo=CyniaAgents)](https://github.com/CyniaAI/CyniaAgents)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
