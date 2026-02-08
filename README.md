@@ -1,30 +1,40 @@
 # Hi 👋, I'm Zhou-Shilin (BaimoQilin)
-### A 14-yo student, software developer, Minecrafter from Suzhou, China
+### A 15-yo student, software developer, Minecrafter from Suzhou, China
 
-- 🌱 I’m currently learning **Python, Java and C++**
+📍 Suzhou | 🤖 Polyagentmorous builder
 
-- 👯 I’m looking to collaborate with someone on [CyniaAI Team](Https://github.com/CyniaAI)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![GitHub%20Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-- 📝 Here's my website for further information: [https://me.baimoqilin.com](https://me.baimoqilin.com)
+- 📝 Here's my website for further information: [https://baimoqilin.com](https://baimoqilin.com)
 
 - 📫 How to reach me **baimoqilin@gmail.com**
 
 - ⚡ Fun fact **I don't know what should I write here.**
 
 ### Projects
-[![BuilderGPT](https://github-readme-stats.vercel.app/api/pin/?username=CyniaAI&repo=BuilderGPT)](https://github.com/CyniaAI/BuilderGPT)
 
-[![BukkitGPT](https://github-readme-stats.vercel.app/api/pin/?username=CyniaAI&repo=BukkitGPT-v3)](https://github.com/CyniaAI/BukkitGPT-v3)
+- 🐾 **[MineClawd](https://github.com/Zhou-Shilin/MineClawd)** - Bring OpenClaw into Minecraft: a Fabric mod that turns in-game chat into an agent workflow—inspect/modify/automate gameplay and server tasks.
+- 🏗️ **[BuilderGPT](https://github.com/CyniaAI/BuilderGPT)** - Describe a building, get a ready-to-use Minecraft schematic: outputs `.schem` or `.mcfunction` for tools like WorldEdit (Cynia Agents component)
+- 🧩 **[BukkitGPT-v3](https://github.com/CyniaAI/BukkitGPT-v3)** - One-click AI Bukkit plugin generator: give the LLM your idea and it generates customized server plugins (Bukkit/Spigot/Paper/etc.).
+- 🧠 **[CyniaAgents](https://github.com/CyniaAI/CyniaAgents)** - A lightweight Streamlit framework for running generative agents, with installable components and unified LLM/config/artifact management.
+- 📚 **[mcp-server-minecraft-mod-devdoc](https://github.com/Zhou-Shilin/mcp-server-minecraft-mod-devdoc)** - An MCP server for browsing Minecraft modding docs (currently NeoForge), designed to be extensible (e.g., Fabric).
 
-[![CyniaAgents](https://github-readme-stats.vercel.app/api/pin/?username=CyniaAI&repo=CyniaAgents)](https://github.com/CyniaAI/CyniaAgents)
+### Connect
+[![Website](https://img.shields.io/badge/-baimoqilin.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://baimoqilin.com)
+[![Blog](https://img.shields.io/badge/-cynia.baimoqilin.com-FF5722?style=flat-square&logo=markdown&logoColor=white)](https://cynia.baimoqilin.com)
+[![X](https://img.shields.io/badge/-@BaimoQilin-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/BaimoQilin)
+[![QQ](https://img.shields.io/badge/-QQ-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/wzVBGNsX8Q)
+[![Discord](https://img.shields.io/badge/-baimoqilin-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/baimoqilin)
+[![Email](https://img.shields.io/badge/-baimoqilin%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:baimoqilin@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zhou-Shilin)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/baimoqilin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baimoqilin" height="30" width="40" /></a>
-</p>
+### Support
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://afdian.com/a/BaimoQilin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="baimoqilin" /></a></p><br><br>
+<a href='https://ko-fi.com/R6R2131N5X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
