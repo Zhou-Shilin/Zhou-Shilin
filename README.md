@@ -20,6 +20,10 @@
 
 ### Projects
 
+*Actively updating*
+- 🌪️ **[Aether](https://github.com/Zhou-Shilin/Aether)** - A stunning, localized, general-purpose AI Agent for Android.
+
+*Not actively updating*
 - 🐾 **[MineClawd](https://github.com/Zhou-Shilin/MineClawd)** - Bring OpenClaw into Minecraft: a Fabric mod that turns in-game chat into an agent workflow—inspect/modify/automate gameplay and server tasks.
 - 🏗️ **[BuilderGPT](https://github.com/CyniaAI/BuilderGPT)** - Describe a building, get a ready-to-use Minecraft schematic: outputs `.schem` or `.mcfunction` for tools like WorldEdit (Cynia Agents component)
 - 🧩 **[BukkitGPT-v3](https://github.com/CyniaAI/BukkitGPT-v3)** - One-click AI Bukkit plugin generator: give the LLM your idea and it generates customized server plugins (Bukkit/Spigot/Paper/etc.).
