@@ -1,5 +1,5 @@
 # Hi 👋, I'm Zhou-Shilin (BaimoQilin)
-### A 15-yo student, software developer, Minecrafter from Suzhou, China
+### A 15-yo student interested in programming and LLMs.
 
 📍 Suzhou | 🤖 Polyagentmorous builder
 
